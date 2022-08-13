@@ -4,14 +4,16 @@
   font-family: "Open Sans Bold";
   src: url(../fonts/OpenSans-Bold.woff)
       format("woff");
-  font-weight: normal;
+  font-weight: 700;
+  font-style: normal;
 }
 
 @font-face {
   font-family: "Open Sans Regular";
   src: url(../fonts/OpenSans-Regular.woff)
       format("woff");
-  font-weight: normal;
+  font-weight: 400;
+  font-style: normal;
 }
 
 /*===== Сommon Features =====*/
